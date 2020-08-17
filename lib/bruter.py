@@ -1,6 +1,6 @@
-
-
-
+# 17/08/2020
+# P60t04K
+# Bruter
 
 from time import time, sleep
 from lib.browser import Browser

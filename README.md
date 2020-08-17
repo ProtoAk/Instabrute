@@ -9,7 +9,7 @@ enhaced/updated tool to bruteforce instagram
     pip install -r requirements.txt
   
 # HELP
-  view how to use tool by:
+
     python3 instagram.py -h 
 
 ### USAGE

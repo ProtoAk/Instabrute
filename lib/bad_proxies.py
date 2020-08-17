@@ -1,6 +1,6 @@
-# Date: 12/29/2018
-# Author: Mohamed
-# Description: Manages bad proxies
+# 17/08//2020
+# enhanced by p60t04k
+# Manages bad proxies
 
 from .const import max_bad_proxies
 

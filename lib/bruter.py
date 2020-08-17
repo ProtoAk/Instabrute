@@ -1,6 +1,6 @@
-# Date: 12/28/2018
-# Author: Mohamed
-# Description: Bruter
+
+
+
 
 from time import time, sleep
 from lib.browser import Browser

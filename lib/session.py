@@ -1,5 +1,5 @@
-# Date: 05/05/2018
-# Author: Mohamed
+# Date: 08/20/2020
+# Author: P60t04K
 # Description: Session Handler
 
 import json

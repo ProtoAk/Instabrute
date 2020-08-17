@@ -13,7 +13,7 @@ enhaced/updated tool to bruteforce instagram
     python3 instagram.py -h 
 
 ### USAGE
-    python3 instagram.py -m <mode> username worlist.txt
+    python3 instagram.py -m <mode> username wordlist.txt
     
 # MODE  
     0-uses 32 bots 

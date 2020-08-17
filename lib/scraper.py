@@ -1,5 +1,5 @@
-# Date: 12/28/2018
-# Author: Mohamed
+# Date: 18/08/2020
+# Author: P60t04K
 # Description: Proxy scraper
 
 from time import sleep

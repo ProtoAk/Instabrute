@@ -1,5 +1,5 @@
-# Date: 12/28/2018
-# Author: Mohamed
+# Date: 17/08/2020
+# enhanced by P60t04K
 # Description: Browser
 
 from time import time

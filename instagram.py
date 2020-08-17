@@ -1,4 +1,4 @@
-# stabilty/code upgraded-enhaced by p60t04k   
+# enhaced by p60t04k   
 
 # bot aint powerfull enough to get you pass within minutes
 

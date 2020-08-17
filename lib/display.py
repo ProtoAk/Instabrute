@@ -1,5 +1,5 @@
-# 12/29/2018
-# Author: Mohamed
+# 17/08/2020
+# Author: P60t04K
 # Description: Display
 
 from os import system
